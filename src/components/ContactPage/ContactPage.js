@@ -7,7 +7,7 @@ import "./ContactPage.css"
 export default function ContactPage() {
     return (
         <>
-            <div id="portfolio" className="portfolio">
+            <div id="contact" className="contact">
                 <h1>Contact</h1>
                 <div className="portfolio-container"></div>
 
