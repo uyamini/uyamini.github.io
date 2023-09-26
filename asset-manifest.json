@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.603ee670.css",
+    "main.js": "/static/js/main.415b3017.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Halloween.png": "/static/media/Halloween.15efa68b8334332b2935.png",
+    "static/media/Background.jpg": "/static/media/Background.f19fb6da186032e3dbf8.jpg",
+    "static/media/Yamini_Headshot.png": "/static/media/Yamini_Headshot.b5ebec3879466c7bae7e.png",
+    "static/media/DejaBrew.png": "/static/media/DejaBrew.9a0c747df56b3fa4b1a0.png",
+    "static/media/TrendTalk.png": "/static/media/TrendTalk.ff4ff2f5d1b299007175.png",
+    "static/media/drte.png": "/static/media/drte.bb328d98da56dfa1ea37.png",
+    "static/media/Yamini_Ulaganathan_Resume.pdf": "/static/media/Yamini_Ulaganathan_Resume.42c50ee7a8d55e29a9c8.pdf",
+    "static/media/Recipe.jpeg": "/static/media/Recipe.691f43c877e2e601fa13.jpeg",
+    "static/media/Awards.webp": "/static/media/Awards.266b5e3db5c99b83e7c5.webp",
+    "index.html": "/index.html",
+    "main.603ee670.css.map": "/static/css/main.603ee670.css.map",
+    "main.415b3017.js.map": "/static/js/main.415b3017.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603ee670.css",
+    "static/js/main.415b3017.js"
+  ]
+}
