@@ -9,7 +9,7 @@ export default function ContactPage() {
         <>
             <div id="contact" className="contact">
                 <h1>Contact</h1>
-                <div className="portfolio-container"></div>
+                <div className="contact-container"></div>
 
                         <div class="email">
                             <i class="bi bi-envelope" style={{ textAlign: 'center' }}></i>
